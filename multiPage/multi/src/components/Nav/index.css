@@ -1,0 +1,9 @@
+div.nav {
+  background-color: #fff;
+  height: 54px;
+  width: 100%;
+  color: #333333;
+  line-height: 54px;
+  padding: 0 15px;
+  border-bottom: 1px solid #d0d0d0;
+  box-sizing: border-box; }

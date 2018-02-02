@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
-import './App.css';
-import Nav from './components/Nav/index.js';
+import './index.css';
+import Nav from '../Nav/index';
+import Header from '../Header/index';
 
 class App extends Component {
     render() {
         return (
             <div className="App">
                 <Nav />
+                <Header />
                 <h1> Main view </h1>
             </div>
         );

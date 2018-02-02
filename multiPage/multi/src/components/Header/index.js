@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './index.css';
 
-class Nav extends Component {
+class Header extends Component {
     render() {
         return (
-            <div className="nav">
-                Nav
+            <div className="header">
+                Header
             </div>
         )
     }
 }
 
-export default Nav;
+export default Header;
